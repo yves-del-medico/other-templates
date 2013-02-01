@@ -1,0 +1,11 @@
+[
+  {
+    "id": "small-owo",
+    "zipfiles": [
+      {
+        "url": "https://raw.github.com/yves-del-medico/other-templates/master/webos-app-config.zip"
+      }
+    ],
+    "description": "Small Enyo project templates"
+  }
+]
