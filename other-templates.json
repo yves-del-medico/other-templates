@@ -7,5 +7,14 @@
       }
     ],
     "description": "Small Enyo project templates"
+  },
+  {
+    "id": "single",
+    "zipfiles": [
+      {
+        "url": "https://raw.github.com/yves-del-medico/other-templates/master/single.zip"
+      }
+    ],
+    "description": "Small Enyo project templates"
   }
 ]
